@@ -278,6 +278,8 @@ function draw() {
     hapa.position(300, 250);
     noLoop();
   } else if (title === false){
+    hapaTit.hide();
+    hapa.hide();
     loop();
     //console.log('entered')
     titleP.hide();
