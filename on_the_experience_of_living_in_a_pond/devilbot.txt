@@ -1,0 +1,32 @@
+! version = 2.0
+
+! sub i'm     = i am
+! sub i'd     = i would
+! sub i've    = i have
+! sub i'll    = i will
+! sub don't   = do not
+! sub isn't   = is not
+! sub you'd   = you would
+! sub you're  = you are
+! sub you've  = you have
+! sub you'll  = you will
+! sub what's  = what is
+! sub whats   = what is
+! sub what're = what are
+! sub what've = what have
+! sub what'll = what will
+! sub who's   = who is
+
++  (go away|leave| get out) [*]
+- why are you so mad
+- you dont treat family like this
+- fine
+
++ (shut up|be quiet|stop talking)
+- excuse me
+- that is incredibly disrespectful
+- i deserve more respect than that
+
++ *
+- WHAT! WHAT!
+- i don't know what you're talking about

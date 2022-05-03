@@ -1,0 +1,52 @@
+! version = 2.0
+
+! sub i'm     = i am
+! sub i'd     = i would
+! sub i've    = i have
+! sub i'll    = i will
+! sub don't   = do not
+! sub isn't   = is not
+! sub you'd   = you would
+! sub you're  = you are
+! sub you've  = you have
+! sub you'll  = you will
+! sub what's  = what is
+! sub whats   = what is
+! sub what're = what are
+! sub what've = what have
+! sub what'll = what will
+! sub who's   = who is
+
++  (hi|hello|whats up|hey|howdy|chao)
+-another (as possible languages,)
+-persons who are young men
+-it grows between your cracked lips
+
++ (who are|what are|what do you do|why do you) [*]
+-humans have passed like dogs
+-find out how to create a small wildlife pond
+-heat hasn't yet made his family members
+
++ (what do you want)
+-wait on hapa as dogs
+-his family members have seen old houses like branches
+-an elegy for wei ming daoists, for example
+
++ (can you) [*]
+-this retro game is romantic
+-millions hang on what we need
+-tennis phenomenon Naomi Osaka
+
++ [*] (stop|stay still) [*]
+-if in an atempt to, at least
+-board or pyramid or allegorical manner;
+-a population at large identifies soley as half
+
++ (who is|what is) [*]
+-what we're melting away with
+-but prison tumbles through what they're really asking here
+
++ *
+-im filipino mothers, both immigrated from
+-oh, your hair's slicked back
+-to stand before charcoal like all the possible languages,
